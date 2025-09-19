@@ -1,9 +1,9 @@
 # OperatorSystemLearn
 
 #### Description
-操作系统学习笔记，学习主要以 Linux 旗下的 CentOS 7.6 内核的轻量级云服务器和 Windows 11 为主。其中会穿插部分 C 语言和 C++ 的内容。
+The study materials primarily focus on a lightweight cloud server running CentOS 7.6 (Linux kernel) and Windows 11. The content will be supplemented with selected topics in C and C++.
 
-笔记的形式以 Markdown 文档及附属图片为主，部分代码会单独分离作为工具使用。
+The notes are presented predominantly in the form of Markdown documents with supporting images. Code snippets are generally embedded within the Markdown documents, while some are separated as standalone utilities for practical use.
 
 #### Software Architecture
 Software architecture description
